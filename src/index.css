@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.products-list {
+  border: 1px solid black;
+  margin: 30px auto;
+  padding: 30px 30px;
+}
